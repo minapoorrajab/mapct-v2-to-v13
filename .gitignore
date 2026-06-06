@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Model weights (if you use Git LFS, track them separately)
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.pkl
+
+# Data (exclude original data, keep only synthetic samples)
+*.xlsx
+*.csv
+!data/synthetic_*.csv   # allow synthetic files
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+.DS_Store
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Outputs
+outputs/
+figures/
+*.png
+*.pdf
+!figures/README.md   # keep a description
+
+# Secrets
+.env
+*.key
+*.pem
