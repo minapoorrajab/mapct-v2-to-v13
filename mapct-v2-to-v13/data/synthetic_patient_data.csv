@@ -1,4 +1,0 @@
-fbs,glu,hba1c,TG,cho,LDL,HDL,UA,Na,K,Ca,Vit D,age,sex,fbs_category,tg_category,cho_category,merged_drugs_norm
-100,150,6.5,120,180,100,50,5.0,138,4.2,9.5,30,55,0,Good controlled,Normal,Desirable,metformin
-120,180,7.2,150,200,120,45,6.0,140,4.5,9.8,25,60,1,Poor controlled,Borderline High,Desirable,atorvastatin,metformin
-110,160,5.9,100,170,90,55,4.5,137,4.0,9.6,35,50,0,Good controlled,Normal,Low,metformin
