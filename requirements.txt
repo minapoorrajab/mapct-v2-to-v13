@@ -1,5 +1,4 @@
 torch>=2.0.0
-torchvision
 numpy>=1.21.0
 pandas>=1.3.0
 scikit-learn>=1.0.0
@@ -10,3 +9,4 @@ tqdm>=4.64.0
 sentence-transformers>=2.2.0
 xgboost>=1.7.0
 openpyxl
+torch-geometric
