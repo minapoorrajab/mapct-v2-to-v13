@@ -1,5 +1,5 @@
 # mapct-v2-to-v13
-# MAPCT v2–v13: Mechanism‑Aware Progressive Clinical Transformer for Drug Regimen Prediction and Generation
+# MAPCT-v2–v13: Mechanism‑Aware Progressive Clinical Transformer for Drug Regimen Prediction and Generation
 
 [![DOI](https://zenodo.org/badge/DOI/yourzenododoi.svg)](https://doi.org/yourzenododoi)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
